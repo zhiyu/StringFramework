@@ -23,7 +23,7 @@ For more information about the sring.properties configuration file, see next Con
 
 h4. Configuration
 
-The only configuration file for StringFramework is [string.properties] .
+The only configuration file for StringFramework is string.properties .
 
 bc. string.debug                = true
 string.uriEncodingEnabled   = true
