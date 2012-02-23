@@ -1,7 +1,7 @@
 StringFramework is a free open-source Java web framework with a very small footprint. It is based on experience and designed for those who need a simple, elegant and pragmatic toolkit to build high-performing, full-featured web applications.
 
 
-h1. How to use
+h1 How to use
 1.   Create a java web application project in your IDE, such as Eclipse or Netbeans.
 2.	 Go to download page and get the latest release version of StringFramework.
 3.	 Copy string.jar to the web application's class path (WEB-INF\lib).
