@@ -7,8 +7,7 @@ h4. How to use
 * Copy string.jar to the web application's class path (WEB-INF\lib).
 * To enable the StringFramework to work with the web application, you need to add a Servlet filter class and filter mapping to web.xml. Below is the filter and filter-mapping nodes you should add to web.xml.
 
-bc. 
-<filter>
+bc. <filter>
 	<filter-name>dispatcher</filter-name>
 	<filter-class>org.stringframework.dispatcher.FilterDispatcher</filter-class>
 </filter>
