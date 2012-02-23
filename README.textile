@@ -38,29 +38,3 @@ string.applicationDefaultController         = Default
 string.applicationDefaultAction             = index
 string.errorPage404         = 404.jsp
 string.errorPage500         = 500.jsp
-string.debug
-enable dubug mode,default value is true
-string.uriEncodingEnabled
-enable dubug mode,default value is true
-string.uriEncoding
-enable dubug mode,default value is true
-string.suffix
-enable dubug mode,default value is true
-string.defaultAction
-enable dubug mode,default value is true
-string.controllerRoot
-enable dubug mode,default value is true
-string.viewRoot
-enable dubug mode,default value is true
-string.applicationName
-enable dubug mode,default value is true
-string.applicationDefaultControllerEnabled
-enable dubug mode,default value is true
-string.applicationDefaultController
-enable dubug mode,default value is true
-string.applicationDefaultAction
-enable dubug mode,default value is true
-string.errorPage404
-enable dubug mode,default value is true
-string.errorPage500
-enable dubug mode,default value is true
