@@ -24,8 +24,7 @@ h4. Configuration
 
 The only configuration file for StringFramework is [string.properties] .
 
-bc. 
-string.debug                = true
+bc. string.debug                = true
 string.uriEncodingEnabled   = true
 string.uriEncoding          = utf-8
 string.suffix               = 
