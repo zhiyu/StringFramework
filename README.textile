@@ -6,7 +6,7 @@ h4. How to use
 
 * Create a java web application project in your IDE, such as Eclipse or Netbeans.
 * Go to download page and get the latest release version of StringFramework.
-* Copy string.jar to the web application's class path (WEB-INF\lib).
+* Copy stringframework.jar to the web application's class path (WEB-INF\lib).
 * Create a new file string.properties and move it into the web application's class path.
 * To enable the StringFramework to work with the web application, you need to add a Servlet filter class and filter mapping to web.xml. Below is the filter and filter-mapping nodes you should add to web.xml.
 
