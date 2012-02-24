@@ -27,7 +27,7 @@ For more information about the sring.properties configuration file, see next Con
 
 The only configuration file for StringFramework is string.properties under classpath.
 
-        string.debug                = true
+    string.debug                = true
         string.uriEncodingEnabled   = true
         string.uriEncoding          = utf-8
         string.suffix               = 
