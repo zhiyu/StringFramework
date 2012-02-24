@@ -6,9 +6,9 @@ StringFramework is a free open-source Java web framework with a very small footp
 
 * http://Host/Controller/
 
-  for example, http://localhost/user/
+    for example, http://localhost/user/
   
-  by default, this request will cause the framework invoke method "index" of class "app.controller.UserController.class"
+    by default, this request will cause the framework invoke method "index" of class "app.controller.UserController.class"
 
 * http://Host/Controller/Action
 
