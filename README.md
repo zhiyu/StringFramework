@@ -28,15 +28,15 @@ For more information about the sring.properties configuration file, see next Con
 The only configuration file for StringFramework is string.properties under classpath.
 
     string.debug                = true
-        string.uriEncodingEnabled   = true
-        string.uriEncoding          = utf-8
-        string.suffix               = 
-        string.defaultAction        = index
-        string.viewRoot             = view
-        string.controllerRoot       = app.controller
-        string.applicationName      = Welcome to StringFramework!
-        string.applicationDefaultControllerEnabled  = true
-        string.applicationDefaultController         = Default
-        string.applicationDefaultAction             = index
-        string.errorPage404         = 404.jsp
-        string.errorPage500         = 500.jsp
+    string.uriEncodingEnabled   = true
+    string.uriEncoding          = utf-8
+    string.suffix               = 
+    string.defaultAction        = index
+    string.viewRoot             = view
+    string.controllerRoot       = app.controller
+    string.applicationName      = Welcome to StringFramework!
+    string.applicationDefaultControllerEnabled  = true
+    string.applicationDefaultController         = Default
+    string.applicationDefaultAction             = index
+    string.errorPage404         = 404.jsp
+    string.errorPage500         = 500.jsp
