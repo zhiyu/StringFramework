@@ -11,12 +11,12 @@ StringFramework is a free open-source Java web framework with a very small footp
 * To enable the StringFramework to work with the web application, you need to add a Servlet filter class and filter mapping to web.xml. Below is the filter and filter-mapping nodes you should add to web.xml.
 
         <filter>
-        <filter-name>dispatcher</filter-name>
-        <filter-class>org.stringframework.dispatcher.FilterDispatcher</filter-class>
+            <filter-name>dispatcher</filter-name>
+            <filter-class>org.stringframework.dispatcher.FilterDispatcher</filter-class>
         </filter>
         <filter-mapping>
-        <filter-name>dispatcher</filter-name>
-        <url-pattern>/*</url-pattern>
+            <filter-name>dispatcher</filter-name>
+            <url-pattern>/*</url-pattern>
         </filter-mapping>
 
 * The configuration file sring.properties must be on the web application's class path. 
