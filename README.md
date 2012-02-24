@@ -2,7 +2,7 @@
 
 StringFramework is a free open-source Java web framework with a very small footprint. It is based on experience and designed for those who need a simple, elegant and pragmatic toolkit to build high-performing, full-featured web applications.
 
-### Procession of Request
+### Processing of Request
 
 * http://Host/Controller/
   for example, http://localhost/user/
