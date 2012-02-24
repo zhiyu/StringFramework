@@ -5,18 +5,22 @@ StringFramework is a free open-source Java web framework with a very small footp
 ### Processing of Request
 
 * http://Host/Controller/
+
   for example, http://localhost/user/
   by default, this request will cause the framework invoke method "index" of class "app.controller.UserController.class"
 
 * http://Host/Controller/Action
+
   for example, http://localhost/user/login
   by default, this request will cause the framework invoke method "login" of class "app.controller.UserController.class"
 
 * http://Host/Package/Controller/
+
   for example, http://localhost/admin/user/
   by default, this request will cause the framework invoke method "index" of class "app.controller.admin.UserController.class"
 
 * http://Host/Package/Controller/Action
+
   for example, http://localhost/admin/user/add
   by default, this request will cause the framework invoke method "add" of class "app.controller.admin.UserController.class"
 
