@@ -1,8 +1,8 @@
-h4. What is StringFramework
+### What is StringFramework
 
 %{font-size:18px}StringFramework is a free open-source Java web framework with a very small footprint. It is based on experience and designed for those who need a simple, elegant and pragmatic toolkit to build high-performing, full-featured web applications.%
 
-h4. How to use
+### How to use
 
 * Create a java web application project in your IDE, such as Eclipse or Netbeans.
 * Go to download page and get the latest release version of StringFramework.
